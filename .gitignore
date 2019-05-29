@@ -61,5 +61,5 @@ typings/
 .next
 
 # #secrets
-# firebaseConfig.js
+firebaseConfig.js
 serviceAccount.json

@@ -1,7 +1,125 @@
 {
-    "collection_name": {
-        "document_name": {
-            "hello": "world"
+    "general": {
+        "items": {
+            "themes": [
+                {
+                    "id": 1,
+                    "text": "Baby Blue Floral",
+                    "searchIndex": "baby blue floral",
+                    "img": {
+                        "src": "https://raw.githubusercontent.com/wedvite/assets/master/themes/h500/babybluefloral.png"
+                    },
+                    "preview": "https://wedvite.info/demo/?t=baby-blue-floral"
+                },
+                {
+                    "id": 2,
+                    "text": "Leaves",
+                    "searchIndex": "leaves",
+                    "img": {
+                        "src": "https://raw.githubusercontent.com/wedvite/assets/master/themes/h500/leaves.png"
+                    },
+                    "preview": "https://wedvite.info/demo/?t=leaves"
+                },
+                {
+                    "id": 3,
+                    "text": "Wine",
+                    "searchIndex": "wine gold maroon",
+                    "img": {
+                        "src": "https://raw.githubusercontent.com/wedvite/assets/master/themes/h500/wine.png"
+                    },
+                    "preview": "https://wedvite.info/demo/?t=wine"
+                },
+                {
+                    "id": 4,
+                    "text": "Vector Pink",
+                    "searchIndex": "vector pink",
+                    "img": {
+                        "src": "https://raw.githubusercontent.com/wedvite/assets/master/themes/h500/vectorpink.png"
+                    },
+                    "preview": "https://wedvite.info/demo/?t=vector-pink"
+                },
+                {
+                    "id": 5,
+                    "text": "Classic",
+                    "searchIndex": "classic",
+                    "img": {
+                        "src": "https://raw.githubusercontent.com/wedvite/assets/master/themes/h500/classic.png"
+                    },
+                    "preview": "https://wedvite.info/demo/?t=classic"
+                },
+                {
+                    "id": 6,
+                    "text": "Pink Rose",
+                    "searchIndex": "pink rose floral",
+                    "img": {
+                        "src": "https://raw.githubusercontent.com/wedvite/assets/master/themes/h500/rose.png"
+                    },
+                    "preview": "https://wedvite.info/demo/?t=rose"
+                },
+                {
+                    "id": 7,
+                    "text": "Autumn",
+                    "searchIndex": "autumn floral",
+                    "img": {
+                        "src": "https://raw.githubusercontent.com/wedvite/assets/master/themes/h500/autumn.png"
+                    },
+                    "preview": "https://wedvite.info/demo/?t=autumn"
+                },
+                {
+                    "id": 8,
+                    "text": "Tropical",
+                    "searchIndex": "tropical floral",
+                    "img": {
+                        "src": "https://raw.githubusercontent.com/wedvite/assets/master/themes/h500/tropical.png"
+                    },
+                    "preview": "https://wedvite.info/demo/?t=tropical"
+                },
+                {
+                    "id": 9,
+                    "text": "Flora",
+                    "searchIndex": "flora floral",
+                    "img": {
+                        "src": "https://raw.githubusercontent.com/wedvite/assets/master/themes/h500/flora.png"
+                    },
+                    "preview": "https://wedvite.info/demo/?t=flora"
+                },
+                {
+                    "id": 10,
+                    "text": "Brush",
+                    "searchIndex": "brush ink paint",
+                    "img": {
+                        "src": "https://raw.githubusercontent.com/wedvite/assets/master/themes/h500/brush.png"
+                    },
+                    "preview": "https://wedvite.info/demo/?t=brush"
+                },
+                {
+                    "id": 11,
+                    "text": "Blush",
+                    "searchIndex": "blush",
+                    "img": {
+                        "src": "https://raw.githubusercontent.com/wedvite/assets/master/themes/h500/blush.png"
+                    },
+                    "preview": "https://wedvite.info/demo/?t=blush"
+                },
+                {
+                    "id": 12,
+                    "text": "Elegant",
+                    "searchIndex": "elegant black",
+                    "img": {
+                        "src": "https://raw.githubusercontent.com/wedvite/assets/master/themes/h500/elegant.png"
+                    },
+                    "preview": "https://wedvite.info/demo/?t=elegant"
+                },
+                {
+                    "id": 13,
+                    "text": "Lavender",
+                    "searchIndex": "lavender purple",
+                    "img": {
+                        "src": "https://raw.githubusercontent.com/wedvite/assets/master/themes/h500/lavender.png"
+                    },
+                    "preview": "https://wedvite.info/demo/?t=lavender"
+                }
+            ]
         }
     }
 }
